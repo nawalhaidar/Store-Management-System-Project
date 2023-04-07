@@ -1,0 +1,22 @@
+Store Management System consists of various classes and sub-classes that further consist of 
+many features and functions related to items entry, items recording, billing, and many more. 
+Before stepping into the dealer’s dashboard, the user has to login to get access, then he can 
+add items, display remaining stocks, refill stocks and remove it. The employee has also to login, 
+he can view total stocks and refill it.
+while adding items from dealer’s account the user has to provide product name, price, and 
+quantity. Similarly, while refilling items, the user has to enter the product name to select the 
+product, then he/she has to enter quantity. Removing an item is too easy, he/she just has to 
+provide product name. The system displays Particulars (product name) with Available stock and 
+Price while viewing stocks from the dealer, customer as well as employee’s account. The system 
+displays Particulars (product name) with Available stock and Price while viewing stocks from the 
+dealer, customer as well as employee’s account. From the customer’s menu, the user can only 
+purchase and view stocks. To purchase an item, the user has to provide the product’s name and 
+quantity, then the system displays the total cost of it. Employee’s login contains the work of 
+employees i.e. refilling stock and viewing remaining stocks.
+Features:
+1. Dealer’s Login
+2. Employee’s Login
+3. Add, Remove products
+4. Purchase items
+5. View remaining stocks
+6. Refill Stock
